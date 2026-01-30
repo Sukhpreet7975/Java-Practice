@@ -1,2 +1,2 @@
-# Java-Assignments
+# Java-Practice
 Java repository for PEP classes
